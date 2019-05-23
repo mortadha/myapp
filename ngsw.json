@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1558635730646,
+  "timestamp": 1558636023479,
   "index": "/myapp/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "/myapp/es2015-polyfills.b62a0c6b168f504c432e.js",
         "/myapp/favicon.ico",
         "/myapp/index.html",
-        "/myapp/main.0fe0baade01a6539b17b.js",
+        "/myapp/main.7aaea014aba359b39d89.js",
         "/myapp/polyfills.8bbb231b43165d65d357.js",
         "/myapp/runtime.26209474bfa8dc87a77c.js",
         "/myapp/styles.3ff695c00d717f2d2a11.css"
@@ -47,8 +47,8 @@
     "/myapp/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/myapp/es2015-polyfills.b62a0c6b168f504c432e.js": "93f7f20f8021daed65e169e735213e2c0bed4ab7",
     "/myapp/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/myapp/index.html": "ae06e11e9891ce0f1c6557b0ec74c914cfec152a",
-    "/myapp/main.0fe0baade01a6539b17b.js": "5bd75f70e5ca92f85e0e74d2875fe37af0d32b59",
+    "/myapp/index.html": "b22e8d26dc861719cc565988bd2b989f3c88a300",
+    "/myapp/main.7aaea014aba359b39d89.js": "a395249e8b567d14dc5c53c70578cb96737d2f0a",
     "/myapp/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/myapp/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/myapp/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
