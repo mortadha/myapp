@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1558648587530,
+  "timestamp": 1558666061737,
   "index": "/myapp/index.html",
   "assetGroups": [
     {
@@ -11,10 +11,10 @@
         "/myapp/es2015-polyfills.b62a0c6b168f504c432e.js",
         "/myapp/favicon.ico",
         "/myapp/index.html",
-        "/myapp/main.e83ca9624887bab151fd.js",
+        "/myapp/main.cc1c4253a618152c9df6.js",
         "/myapp/polyfills.8bbb231b43165d65d357.js",
         "/myapp/runtime.26209474bfa8dc87a77c.js",
-        "/myapp/styles.3ff695c00d717f2d2a11.css"
+        "/myapp/styles.0e4338761429b4eb16ac.css"
       ],
       "patterns": []
     },
@@ -23,6 +23,8 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/myapp/assets/Logo-consort-nt-rvb-72dpi.png",
+        "/myapp/assets/PWA.png",
         "/myapp/assets/icons/icon-128x128.png",
         "/myapp/assets/icons/icon-144x144.png",
         "/myapp/assets/icons/icon-152x152.png",
@@ -30,7 +32,9 @@
         "/myapp/assets/icons/icon-384x384.png",
         "/myapp/assets/icons/icon-512x512.png",
         "/myapp/assets/icons/icon-72x72.png",
-        "/myapp/assets/icons/icon-96x96.png"
+        "/myapp/assets/icons/icon-96x96.png",
+        "/myapp/assets/logo-keara.png",
+        "/myapp/assets/old-vintage-tv-isolated-on-white-background-vector-18711010.jpg"
       ],
       "patterns": []
     }
@@ -49,6 +53,8 @@
     }
   ],
   "hashTable": {
+    "/myapp/assets/Logo-consort-nt-rvb-72dpi.png": "d5a5ecccb59a1e6f910ae925a484b292dc10b2ae",
+    "/myapp/assets/PWA.png": "1f8f9a1969c905b2aa92032fa4a13d5eabf67e86",
     "/myapp/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/myapp/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/myapp/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -57,13 +63,15 @@
     "/myapp/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/myapp/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/myapp/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/myapp/assets/logo-keara.png": "21d916244c4a9dabf99aaf8a247b4c72de15284f",
+    "/myapp/assets/old-vintage-tv-isolated-on-white-background-vector-18711010.jpg": "d2ba915a9cc5d12812331104128fef3eae0478a1",
     "/myapp/es2015-polyfills.b62a0c6b168f504c432e.js": "93f7f20f8021daed65e169e735213e2c0bed4ab7",
     "/myapp/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/myapp/index.html": "62d3d139efad3f13e600ab068293752bf0b2b375",
-    "/myapp/main.e83ca9624887bab151fd.js": "eedd53647314e005b890f8d65c614d380703145e",
+    "/myapp/index.html": "b41b48c9ce6744cd0ab55dda413366b1f2c47e7f",
+    "/myapp/main.cc1c4253a618152c9df6.js": "6f188543f1c9ca62c0f92bf6208a46b61766b446",
     "/myapp/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/myapp/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/myapp/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/myapp/styles.0e4338761429b4eb16ac.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
