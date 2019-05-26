@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1558913620816,
+  "timestamp": 1558914288495,
   "index": "/myapp/index.html",
   "assetGroups": [
     {
@@ -44,6 +44,17 @@
       "name": "jokes-api",
       "patterns": [
         "https:\\/\\/api\\.chucknorris\\.io\\/jokes\\/random"
+      ],
+      "strategy": "freshness",
+      "maxSize": 20,
+      "maxAge": 3600000,
+      "timeoutMs": 5000,
+      "version": 1
+    },
+    {
+      "name": "google-api",
+      "patterns": [
+        "https:\\/\\/maps\\.googleapis\\.com\\/"
       ],
       "strategy": "freshness",
       "maxSize": 20,
