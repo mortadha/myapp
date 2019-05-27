@@ -1,20 +1,20 @@
 {
   "configVersion": 1,
-  "timestamp": 1558919522805,
-  "index": "https://mortadha.github.io/myapp/index.html",
+  "timestamp": 1558919758332,
+  "index": "/myapp/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://mortadha.github.io/myapp/es2015-polyfills.b62a0c6b168f504c432e.js",
-        "https://mortadha.github.io/myapp/favicon.ico",
-        "https://mortadha.github.io/myapp/index.html",
-        "https://mortadha.github.io/myapp/main.646e323495f93aa45861.js",
-        "https://mortadha.github.io/myapp/polyfills.8bbb231b43165d65d357.js",
-        "https://mortadha.github.io/myapp/runtime.26209474bfa8dc87a77c.js",
-        "https://mortadha.github.io/myapp/styles.aee8059477e8838a3834.css"
+        "/myapp/es2015-polyfills.b62a0c6b168f504c432e.js",
+        "/myapp/favicon.ico",
+        "/myapp/index.html",
+        "/myapp/main.646e323495f93aa45861.js",
+        "/myapp/polyfills.8bbb231b43165d65d357.js",
+        "/myapp/runtime.26209474bfa8dc87a77c.js",
+        "/myapp/styles.aee8059477e8838a3834.css"
       ],
       "patterns": []
     },
@@ -23,18 +23,18 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://mortadha.github.io/myapp/assets/Logo-consort-nt-rvb-72dpi.png",
-        "https://mortadha.github.io/myapp/assets/PWA.png",
-        "https://mortadha.github.io/myapp/assets/icons/icon-128x128.png",
-        "https://mortadha.github.io/myapp/assets/icons/icon-144x144.png",
-        "https://mortadha.github.io/myapp/assets/icons/icon-152x152.png",
-        "https://mortadha.github.io/myapp/assets/icons/icon-192x192.png",
-        "https://mortadha.github.io/myapp/assets/icons/icon-384x384.png",
-        "https://mortadha.github.io/myapp/assets/icons/icon-512x512.png",
-        "https://mortadha.github.io/myapp/assets/icons/icon-72x72.png",
-        "https://mortadha.github.io/myapp/assets/icons/icon-96x96.png",
-        "https://mortadha.github.io/myapp/assets/logo-keara.png",
-        "https://mortadha.github.io/myapp/assets/old-vintage-tv-isolated-on-white-background-vector-18711010.jpg"
+        "/myapp/assets/Logo-consort-nt-rvb-72dpi.png",
+        "/myapp/assets/PWA.png",
+        "/myapp/assets/icons/icon-128x128.png",
+        "/myapp/assets/icons/icon-144x144.png",
+        "/myapp/assets/icons/icon-152x152.png",
+        "/myapp/assets/icons/icon-192x192.png",
+        "/myapp/assets/icons/icon-384x384.png",
+        "/myapp/assets/icons/icon-512x512.png",
+        "/myapp/assets/icons/icon-72x72.png",
+        "/myapp/assets/icons/icon-96x96.png",
+        "/myapp/assets/logo-keara.png",
+        "/myapp/assets/old-vintage-tv-isolated-on-white-background-vector-18711010.jpg"
       ],
       "patterns": []
     }
@@ -53,25 +53,25 @@
     }
   ],
   "hashTable": {
-    "https://mortadha.github.io/myapp/assets/Logo-consort-nt-rvb-72dpi.png": "d5a5ecccb59a1e6f910ae925a484b292dc10b2ae",
-    "https://mortadha.github.io/myapp/assets/PWA.png": "1f8f9a1969c905b2aa92032fa4a13d5eabf67e86",
-    "https://mortadha.github.io/myapp/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://mortadha.github.io/myapp/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://mortadha.github.io/myapp/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://mortadha.github.io/myapp/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://mortadha.github.io/myapp/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://mortadha.github.io/myapp/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://mortadha.github.io/myapp/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://mortadha.github.io/myapp/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://mortadha.github.io/myapp/assets/logo-keara.png": "21d916244c4a9dabf99aaf8a247b4c72de15284f",
-    "https://mortadha.github.io/myapp/assets/old-vintage-tv-isolated-on-white-background-vector-18711010.jpg": "d2ba915a9cc5d12812331104128fef3eae0478a1",
-    "https://mortadha.github.io/myapp/es2015-polyfills.b62a0c6b168f504c432e.js": "93f7f20f8021daed65e169e735213e2c0bed4ab7",
-    "https://mortadha.github.io/myapp/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://mortadha.github.io/myapp/index.html": "fba836495b8bd66facf86689f901f2d9919eb5b6",
-    "https://mortadha.github.io/myapp/main.646e323495f93aa45861.js": "c3b221527a0188c3ec4d788f0e1cfb2035b96635",
-    "https://mortadha.github.io/myapp/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
-    "https://mortadha.github.io/myapp/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "https://mortadha.github.io/myapp/styles.aee8059477e8838a3834.css": "896bacca81c77bd96941d3b70bf5d02d5b81d514"
+    "/myapp/assets/Logo-consort-nt-rvb-72dpi.png": "d5a5ecccb59a1e6f910ae925a484b292dc10b2ae",
+    "/myapp/assets/PWA.png": "1f8f9a1969c905b2aa92032fa4a13d5eabf67e86",
+    "/myapp/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/myapp/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/myapp/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/myapp/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/myapp/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/myapp/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/myapp/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/myapp/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/myapp/assets/logo-keara.png": "21d916244c4a9dabf99aaf8a247b4c72de15284f",
+    "/myapp/assets/old-vintage-tv-isolated-on-white-background-vector-18711010.jpg": "d2ba915a9cc5d12812331104128fef3eae0478a1",
+    "/myapp/es2015-polyfills.b62a0c6b168f504c432e.js": "93f7f20f8021daed65e169e735213e2c0bed4ab7",
+    "/myapp/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/myapp/index.html": "95ae2d01dad0987e73ebac8392a22b1fc8bd2739",
+    "/myapp/main.646e323495f93aa45861.js": "c3b221527a0188c3ec4d788f0e1cfb2035b96635",
+    "/myapp/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "/myapp/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/myapp/styles.aee8059477e8838a3834.css": "896bacca81c77bd96941d3b70bf5d02d5b81d514"
   },
   "navigationUrls": [
     {
