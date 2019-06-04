@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1559688354212,
+  "timestamp": 1559688836745,
   "index": "/myapp/index.html",
   "assetGroups": [
     {
@@ -43,7 +43,7 @@
     {
       "name": "jokes-api",
       "patterns": [
-        "https:\\/\\/api\\.chucknorris\\.io\\/jokes\\/random"
+        "https:\\/\\/consort-api\\.azurewebsites\\.net\\/dbs\\/getDb"
       ],
       "strategy": "freshness",
       "maxSize": 20,
