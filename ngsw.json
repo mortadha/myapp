@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1559694644372,
+  "timestamp": 1559736207661,
   "index": "/myapp/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "/myapp/es2015-polyfills.cac88ae4f6901839703a.js",
         "/myapp/favicon.ico",
         "/myapp/index.html",
-        "/myapp/main.e6036b7b735594abdd3f.js",
+        "/myapp/main.66d4bced16b310058cba.js",
         "/myapp/polyfills.2b767098c09ef2304dbf.js",
         "/myapp/runtime.26209474bfa8dc87a77c.js",
         "/myapp/styles.aee8059477e8838a3834.css"
@@ -67,8 +67,8 @@
     "/myapp/assets/old-vintage-tv-isolated-on-white-background-vector-18711010.jpg": "d2ba915a9cc5d12812331104128fef3eae0478a1",
     "/myapp/es2015-polyfills.cac88ae4f6901839703a.js": "f82cf68af7e4e9c8671c72e672e541cf7497db2b",
     "/myapp/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/myapp/index.html": "3686af9bc25b1144318d94b614ca7081c14161d2",
-    "/myapp/main.e6036b7b735594abdd3f.js": "cf4ff59fec7d08c57bf5b47045b65e20899530fe",
+    "/myapp/index.html": "8151f5915efd819e0a2e43ae3edfe5a8364f429c",
+    "/myapp/main.66d4bced16b310058cba.js": "caf66c3f75e0de3661684155376b10e20f5bd7d2",
     "/myapp/polyfills.2b767098c09ef2304dbf.js": "a0fa042a7cd96d0967a6ebe953ae6a84330835da",
     "/myapp/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/myapp/styles.aee8059477e8838a3834.css": "896bacca81c77bd96941d3b70bf5d02d5b81d514"
