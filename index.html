@@ -3,7 +3,13 @@
 <head>
   <meta charset="utf-8">
   <title>Myapp</title>
-  <base href="/myapp/">
+  <base href="/myapp/"><!-- https://github.com/aws/aws-amplify/issues/678 fix: -->
+<script>
+  if (global === undefined) {
+    var global = window;
+  }
+</script>
+<!-- https://github.com/aws/aws-amplify/issues/678 fix end-->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link rel="manifest" href="manifest.json">
@@ -12,5 +18,5 @@
 <body>
   <app-root></app-root>
   <noscript>Please enable JavaScript to continue using this application.</noscript>
-<script type="text/javascript" src="runtime.26209474bfa8dc87a77c.js"></script><script type="text/javascript" src="es2015-polyfills.b62a0c6b168f504c432e.js" nomodule></script><script type="text/javascript" src="polyfills.8bbb231b43165d65d357.js"></script><script type="text/javascript" src="main.c012e114ee31255ea1ca.js"></script></body>
+<script type="text/javascript" src="runtime.26209474bfa8dc87a77c.js"></script><script type="text/javascript" src="es2015-polyfills.cac88ae4f6901839703a.js" nomodule></script><script type="text/javascript" src="polyfills.2b767098c09ef2304dbf.js"></script><script type="text/javascript" src="main.e6036b7b735594abdd3f.js"></script></body>
 </html>
